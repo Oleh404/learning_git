@@ -1,0 +1,3 @@
+git add GROUP_NAME/Oleg.txt
+git commit -m "Добавлен файл Oleg.txt в папку GROUP_NAME"
+git push origin Oleg-HW16
